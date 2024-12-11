@@ -1,0 +1,71 @@
+Generation 1
+Best Sequence: [('genetic_mutation', {'scale': 1.0, 'elite_rate': 0.1, 'mutation_rate': 0.25, 'distribution': 'uniform'}, 'greedy'), ('differential_mutation', {'expression': 'rand-to-best-and-current', 'num_rands': 1, 'factor': 1.0}, 'greedy')]
+Best Performance: -14.360437775287558
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 2
+Best Sequence: [('differential_mutation', {'expression': 'rand-to-best-and-current', 'num_rands': 1, 'factor': 1.0}, 'greedy'), ('random_search', {'scale': 1.0, 'distribution': 'uniform'}, 'greedy')]
+Best Performance: -14.362994484194227
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 3
+Best Sequence: [('differential_mutation', {'expression': 'rand-to-best-and-current', 'num_rands': 1, 'factor': 1.0}, 'greedy'), ('random_search', {'scale': 1.0, 'distribution': 'uniform'}, 'greedy')]
+Best Performance: -14.362994484194227
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 4
+Best Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Best Performance: -14.372489153658869
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 5
+Best Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Best Performance: -14.372489153658869
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 6
+Best Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Best Performance: -14.372489153658869
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 7
+Best Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Best Performance: -14.372489153658869
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 8
+Best Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Best Performance: -14.372489153658869
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 9
+Best Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Best Performance: -14.372489153658869
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Generation 10
+Best Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Best Performance: -14.372489153658869
+Worst Sequence: [('swarm_dynamic', {'factor': 0.7, 'self_conf': 2.54, 'swarm_conf': 2.56, 'version': 'inertial', 'distribution': 'uniform'}, 'all'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Worst Performance: 653.1749201118469
+
+Performance History:
+Generation 1: Performance: -14.360437775287558, Sequence: [('genetic_mutation', {'scale': 1.0, 'elite_rate': 0.1, 'mutation_rate': 0.25, 'distribution': 'uniform'}, 'greedy'), ('differential_mutation', {'expression': 'rand-to-best-and-current', 'num_rands': 1, 'factor': 1.0}, 'greedy')]
+Generation 2: Performance: -14.362994484194227, Sequence: [('differential_mutation', {'expression': 'rand-to-best-and-current', 'num_rands': 1, 'factor': 1.0}, 'greedy'), ('random_search', {'scale': 1.0, 'distribution': 'uniform'}, 'greedy')]
+Generation 3: Performance: -14.362994484194227, Sequence: [('differential_mutation', {'expression': 'rand-to-best-and-current', 'num_rands': 1, 'factor': 1.0}, 'greedy'), ('random_search', {'scale': 1.0, 'distribution': 'uniform'}, 'greedy')]
+Generation 4: Performance: -14.372489153658869, Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Generation 5: Performance: -14.372489153658869, Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Generation 6: Performance: -14.372489153658869, Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Generation 7: Performance: -14.372489153658869, Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Generation 8: Performance: -14.372489153658869, Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Generation 9: Performance: -14.372489153658869, Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
+Generation 10: Performance: -14.372489153658869, Sequence: [('random_flight', {'scale': 1.0, 'distribution': 'levy', 'beta': 1.5}, 'greedy'), ('local_random_walk', {'probability': 0.75, 'scale': 1.0, 'distribution': 'gaussian'}, 'greedy')]
