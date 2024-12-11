@@ -1,0 +1,135 @@
+#################################################################################################################
+P1: agen=15, iter=30						
+# imag	Op1			Selector1	Op2			Selector2	perf		time (seg)
+10	random_flight		greedy		genetic_mutation	greedy		-13.96930719	2,998.84
+10	spiral_dynamic		greedy		differential_mutation   greedy		-13.96250513	3,084.32
+10	genetic_mutation	greedy		gravitational_search	all		-12.65241714	3,142.32
+10	genetic_mutation	greedy		random_search		greedy		-13.78385689	3,032.87
+10	random_flight		greedy		genetic_mutation	greedy		-13.97328623	2,993.45
+20	random_search		greedy		random_flight		greedy		-14.2853275	5,789.69
+20	random_flight		greedy		random_search		greedy		-13.95727903	5,803.73
+20	random_search		greedy		random_flight		greedy		-14.26413281	5,778.33
+20	random_sample		all		differential_mutation	greedy		-14.02991298	5,325.41
+20 	gravitational_search	all		random_search		greedy		-13.97042443	5,217.78
+30	genetic_mutation	greedy		random_flight		greedy		-14.34882254	8,808.26
+30	genetic_mutation	greedy		random_search		greedy		-14.28813572	8,795.26
+30	random_search		greedy		genetic_crossover	all		-14.24375796	8,705.64
+30	spiral_dynamic		all		random_sample		all		-14.12413283	8,633.41
+30	random_search		greedy		swarm_dynamic		all		-13.989544229	8,973.11
+40	differential_mutation	greedy		spiral_dynamic		all		-14.26039802	11,684.97
+40	differential_mutation	greedy		swarm_dynamic		all		-14.23847655	11,723.16
+40	firefly_dynamic		greedy		swarm_dynamic		all		-14.21379693	11,824.72
+40	differential_mutation	greedy		random_sample		all		-13.97899124	11,532.64
+40	genetic_crossover	all		differential_mutation	greedy		-13.82944345	11,946.38
+50	differential_mutation	greedy		spiral_dynamic		all		-14.25913573	14,592.00
+50	random_flight		greedy		differential_mutation	greedy		-14.25252316	14,366.21
+50	differential_mutation	greedy		spiral_dynamic		all		-14.24983471	14,588.96
+50	random_search		greedy		genetic_crossover	all		-14.15770420	14,408.76
+50	swarm_dynamic		all		spiral_dynamic		all		-14.05937826	14,633.29
+60	differential_mutation	greedy		spiral_dynamic		all		-14.25432262	17,716.00
+60	local_random_walk	greedy		genetic_mutation	greedy		-13.87245473	17,569.47
+60	spiral_dynamic		greedy		differential_mutation	all		-13.25422318	17,803.25
+60	differential_mutation	greedy		spiral_dynamic		all		-14.26013521	17,719.23
+60	differential_mutation	greedy		spiral_dynamic		all		-14.24983317	17,720.11
+70	random_search		greedy		swarm_dynamic		all		-14.25048060	20,836.14
+70	differential_mutation	greedy		firefly_dynamic		all		-14.06518737	20,799.36
+70	random_flight		greedy		spiral_dynamic		all		-14.27744015	20,836.14
+70	random_search		greedy		spiral_dynamic		all		-14.12589112	20,901.22
+70	random_flight		greedy		firefly_dynamic		all		-14.01537813	20,795.69
+
+
+#################################################################################################################
+P2: agen=20, iter=40						
+# imag	Op1			Selector1	Op2		  	Selector2	perf		time (seg)
+10	random_flight		greedy		genetic_mutation	greedy		-14.00590561	3,256.43
+10	random_flight		greedy		differential_mutation	greedy		-13.97988275	3,301.58
+10	differential_mutation	greedy		spiral_dynamic		all		-13.97413108	3,323.62
+10	genetic_mutation	greedy		spiral_dynamic		all		-13.96200286	3,386.16
+10	random_sample		greedy		spiral_dynamic		all		-14.00223561	3,233.86
+
+20	random_flight		greedy		random_search		greedy		-14.30376803	7,167.12
+20	random_flight		greedy		firefly_dynamic		all		-14.24255838	7,233.68
+20	spiral_dynamic		all		random_sample		all		-14.08255376	7,323.71
+20	random_flight		greedy		random_search		greedy		-14.28412237	7,145.12
+20	gravitational_search	all		swarm_dynamic		all		-13.99683049	7,410.32
+
+
+30	genetic_mutation	greedy		random_flight		greedy		-14.3680011	10,596.55
+30	random_flight		greedy		local_random_walk	greedy		-14.3637420	10,433.26
+30	differential_mutation	greedy		spiral_dynamic		all		-14.3519771	10,606.47
+30	firefly_dynamic		all		swarm_dynamic		all		-14.3019332	10,488.97
+30	random_flight		greedy		random_sample		all		-14.1909201	10,422.13
+
+40	random_flight		greedy		genetic_mutation	greedy		-14.2701347	12,919.11
+40	differential_mutation	greedy		local_random_walk	greedy		-14.2374328	12,966.52
+40	local_random_walk	greedy		random_search		greedy		-14.2185371	12,826.82
+40	random_search		greedy		random_flight		greedy		-14.2682272	12,803.29
+40	local_random_walk	greedy		genetic_mutation	greedy		-14.1503261	12,895.17
+
+50	random_search		greedy		random_flight		greedy		-14.26796208	15,732
+50	differential_mutation	greedy		spiral_dynamic		all		-14.25905339	15,786.28
+50	random_sample		greedy		swarm_dynamic		all		-14.21193111	15,803.16
+50	differential_mutation	greedy		random_sample		all		-14.17929944	15,688.28
+50	differential_mutation	greedy		spiral_dynamic		all		-14.26012235	15,788.12
+
+
+60	differential_mutation	greedy		random_flight		greedy		-14.25642073	19,410.90
+60	local_random_walk	greedy		differential_mutation	greedy		-14.23283707	19,466.35
+60	swarm_dynamic		greedy		firefly_dynamic		greedy		-14.20747720	19,532.28
+60	genetic_crossover	greedy		random_sample		greedy		-13.99867144	19,423.15
+60	local_random_walk	greedy		differential_mutation	greedy		-14.22682599	19,433.76
+
+70	local_random_walk	greedy		random_flight		greedy		-14.28801027	23,226.16
+70	random_search		greedy		random_flight		greedy		-14.28436411	23,128.44
+70	random_search		greedy		differential_mutation	greedy		-14.26963189	23,326.52
+70	firefly_dynamic		all		genetic_crossover	all		-14.26775988	23,288.12
+70	firefly_dynamic		all		genetic_crossover	all		-14.25954091	23,283.66
+
+#################################################################################################################
+ P3: agen=30, iter=60						
+# imag	Op1			Selector1	Op2			Selector2	perf		time (seg)
+10	genetic_mutation	greedy		random_flight		greedy		-14.01321744	3,696.03
+10	random_search		greedy		random_flight		greedy		-14.01309175	3,589.23
+10	differential_mutation	greedy		spiral_dynamic		all		-13.99334478	3,603.08
+10	spiral_dynamic		all		random_flight		greedy		-13.98315972	3,596.11
+10	firefly_dynamic		all		random_flight		greedy		-14.00862247	3,587.41
+
+20	local_random_walk	greedy		random_flight		greedy		-14.31323302	7,942.33
+20	local_random_walk	greedy		random_flight		greedy		-14.31369322	7,938.26
+20	random_search		greedy		genetic_crossover	all		-14.26430038	7,988.43
+20	local_random_walk	greedy		swarm_dynamic		all		-14.18264957	7,938.26
+20	random_search		greedy		local_random_walk	greedy		-14.29572019	7,956.22
+
+30	random_flight		greedy		local_random_walk	greedy		-14.37248915	11,558.30
+30	spiral_dynamic		all		differential_mutation	greedy		-14.37198145	11,613.83
+30	random_flight		greedy		central_force_dynamic	all		-14.35425278	11,608.16
+30	swarm_dynamic		all		random_search		greedy		-14.24935796	11,611.41
+30	genetic_mutation	greedy		random_sample		all		-14.17363437	11,598.21
+
+
+40	random_search		greedy		random_flight		greedy		-14.2751804	15,478.19
+40	random_flight		greedy		genetic_mutation	greedy		-14.2554261	15,588.91
+40	local_random_walk	greedy		firefly_dynamic		all		-14.1189419	15,423.72
+40	random_search		greedy		firefly_dynamic		all		-14.2639944	15,406.11
+40	spiral_dynamic		all		central_force_dynamic	all		-14.0894253	15,522.43
+
+
+50	differential_mutation	greedy		random_flight		greedy		-14.27051191	19,818
+50	genetic_mutation	greedy		random_flight		greedy		-14.27042033	19,886.27
+50	random_search		greedy		random_flight		greedy		-14.27015983	19,812.92
+50	central_force_dynamic	all		local_random_walk	greedy		-14.16571138	19,866.08
+50	random_sample		all		random_search		greedy		-14.18445361	19,802.21
+
+60	genetic_mutation	greedy		random_flight		greedy		-14.26462885	23,219.53
+60	random_flight		greedy		differential_mutation	greedy		-14.26465003	23,255.74
+60	random_flight		greedy		local_random_walk	greedy		-14.26463343	23,223.62
+60	genetic_mutation	greedy		differential_mutation	greedy		-14.26463343	23,303.44
+60	genetic_mutation	greedy		local_random_walk	greedy		-14.23841654	23,221.06
+
+
+
+70	local_random_walk	greedy		random_flight		greedy		-14.29008328	27,002.28
+70	genetic_crossover	greedy		random_sample		all		-14.15586960	27,068.07
+70	spiral_dynamic		all		random_sample		all		-14.16651471	27,103.21
+70	random_sample		all		random_search		greedy		-14.16479657	27,015.71
+70	local_random_walk	all		swarm_dynamic		all		-14.22458528	27,015.71
