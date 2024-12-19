@@ -53,7 +53,8 @@ The figure below illustrates the segmentation pipeline employed for melanoma det
 ## Files
 * [Hyper-heuristic process](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/Random2.py)
 * [HH process Data](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/DataHH.txt)
-* [Main code for segmentation](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/datacole.m)
+* [Precomputed data](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/datacole.m)
+* [Results](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/Imag_SSCI2024.ipynb)
 
 ### 1. Clone the Repository  
 ```bash
