@@ -1,4 +1,4 @@
-# Paper7_IEEE_SSCI_2025 🚀
+# Paper 7  IEEE SSCI 2025 🚀
 
 🎉 **Welcome to Manuscript 7: Result Simulation IEEE SSCI 2025!**  
 This repository contains data and code for the article:  
