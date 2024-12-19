@@ -29,7 +29,7 @@ Below is an overview of the hyper-heuristic methodology used to obtained tailore
 
 The figure below illustrates the segmentation pipeline employed for melanoma detection:  
 
-![Segmentation Pipeline](imgP/SSCIdiagram.png).  
+![Segmentation Pipeline](imgP/SSCIdiagram.jpg).  
 
 ---
 
