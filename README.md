@@ -21,7 +21,7 @@ This repository contains the data and code used in the experiments described in 
 
 ### Hyper-Heuristic Process  
 
-Below is an overview of the hyper-heuristic methodology used to generate tailored metaheuristics:  
+Below is an overview of the hyper-heuristic methodology used to obtained tailored metaheuristics:  
 
 ![Hyper-Heuristic Process](imgP/Meto2.jpg)  
 
@@ -29,7 +29,7 @@ Below is an overview of the hyper-heuristic methodology used to generate tailore
 
 The figure below illustrates the segmentation pipeline employed for melanoma detection:  
 
-![Segmentation Pipeline](imgP/SSCI diagram.png).  
+![Segmentation Pipeline](imgP/SSCIdiagram.png).  
 
 ---
 
