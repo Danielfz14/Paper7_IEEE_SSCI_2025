@@ -1,9 +1,10 @@
-# Paper7_IEEE_SSCI_2025
+# Paper7_IEEE_SSCI_2025 🚀
 
-Welcome to the Manuscript 7: Result Simulation IEEE SSCI 2025  
-Data and code from the article entitled: **"Automated Tailoring of Heuristic-Based Renyi’s Entropy Maximizers for Efficient Melanoma Segmentation"**.  
+🎉 **Welcome to Manuscript 7: Result Simulation IEEE SSCI 2025!**  
+This repository contains data and code for the article:  
+**"Automated Tailoring of Heuristic-Based Renyi’s Entropy Maximizers for Efficient Melanoma Segmentation."**
 
-**Authors:**  
+👨‍🔬 **Authors:**  
 - Daniel F. Zambrano-Gutierrez  
 - Jorge Ramos-Frutos  
 - Oscar Ramos-Soto  
@@ -13,15 +14,26 @@ Data and code from the article entitled: **"Automated Tailoring of Heuristic-Bas
 
 ---
 
-## Abstract  
-This repository contains the data and code used in the experiments described in the article. The work proposes a novel automated methodology using hyper-heuristics to tailor metaheuristics for melanoma segmentation, with Renyi’s entropy as the objective function. Experimental results demonstrate that the tailored metaheuristics achieve efficient segmentation with minimal computational cost.
+## 📚 Abstract  
+This project presents a novel approach to automatically generate tailored metaheuristics for image segmentation, specifically for melanoma detection. Using **Renyi's entropy** as the objective function, this methodology achieves robust and efficient image segmentation without requiring **expert intervention**.
+## 🌟 Why is this Work Important?  
+
+🔑 **Key Relevance**:  
+The proposed methodology enables the design of a **Metaheuristic** customized to specific optimization problems **without requiring expert experience**.  
+In this particular case, it focuses on enhancing **melanoma image segmentation** for early and accurate skin cancer detection.  
+
+🎯 **Impact**:  
+1. Removes dependency on expert knowledge for algorithm design.  
+2. Reduces computational cost while maintaining high segmentation quality.  
+3. Demonstrates the adaptability of hyper-heuristics for solving real-world challenges in **medical imaging**.  
 
 ---
-## Methodology  
+
+## 🔎 Methodology  
 
 ### Hyper-Heuristic Process  
 
-Below is an overview of the hyper-heuristic methodology used to obtained tailored metaheuristics:  
+Below is an overview of the hyper-heuristic methodology used to obtain tailored metaheuristics:  
 
 ![Hyper-Heuristic Process](imgP/Meto2.jpg)  
 
@@ -33,7 +45,7 @@ The figure below illustrates the segmentation pipeline employed for melanoma det
 
 ---
 
-## Requirements  
+## 🛠️ Requirements  
 
 - **Python**: v3.7+  
 - **Matlab**: R2024a  
@@ -50,11 +62,13 @@ The figure below illustrates the segmentation pipeline employed for melanoma det
 
 ---
 
-## Files
+## 🗂️ Files
 * [Hyper-heuristic process](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/Random2.py)
 * [HH process Data](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/DataHH.txt)
 * [Precomputed data](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/datacole.m)
 * [Results](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/Imag_SSCI2024.ipynb)
+
+## 🏃‍♂️ Quick Start  
 
 ### 1. Clone the Repository  
 ```bash
