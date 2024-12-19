@@ -36,9 +36,9 @@ This repository contains the data and code used in the experiments described in 
 ---
 
 ## Files
-* [Hyper-heuristic process]([https://github.com/Danielfz14/CEC23-AUTODESIGN_PID_CONTROLLER/blob/main/buckHH.ipynb](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/Random2.py))
-* [HH process Data]([https://github.com/Danielfz14/CEC23-AUTODESIGN_PID_CONTROLLER/tree/main/EvolucionHH](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/DataHH.txt))
-* [Main code for segmentation.]([https://github.com/Danielfz14/CEC23-AUTODESIGN_PID_CONTROLLER/blob/main/HHbuck.m](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/datacole.m))
+* [Hyper-heuristic process](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/Random2.py)
+* [HH process Data](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/DataHH.txt)
+* [Main code for segmentation](https://github.com/Danielfz14/Paper7_IEEE_SSCI_2025/blob/main/datacole.m)
 
 ### 1. Clone the Repository  
 ```bash
