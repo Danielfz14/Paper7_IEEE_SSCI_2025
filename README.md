@@ -17,6 +17,21 @@ Data and code from the article entitled: **"Automated Tailoring of Heuristic-Bas
 This repository contains the data and code used in the experiments described in the article. The work proposes a novel automated methodology using hyper-heuristics to tailor metaheuristics for melanoma segmentation, with Renyi’s entropy as the objective function. Experimental results demonstrate that the tailored metaheuristics achieve efficient segmentation with minimal computational cost.
 
 ---
+## Methodology  
+
+### Hyper-Heuristic Process  
+
+Below is an overview of the hyper-heuristic methodology used to generate tailored metaheuristics:  
+
+![Hyper-Heuristic Process](imgP/Meto2.jpg)  
+
+### Segmentation Methodology  
+
+The figure below illustrates the segmentation pipeline employed for melanoma detection:  
+
+![Segmentation Pipeline](imgP/SSCI diagram.png).  
+
+---
 
 ## Requirements  
 
